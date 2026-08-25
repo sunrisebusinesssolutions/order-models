@@ -1,3 +1,3 @@
-module github.com/sbsolutions/order-models
+module github.com/sunrisebusinesssolutions/order-models
 
 go 1.21
